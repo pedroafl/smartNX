@@ -1,0 +1,11 @@
+CREATE TABLE smartnx.carro (
+	id INT auto_increment NOT NULL,
+	marca varchar(100) NOT NULL,
+	modelo varchar(100) NOT NULL,
+	ano INT NOT NULL,
+	placa CHAR null,
+	PRIMARY KEY (id)
+)
+ENGINE=MyISAM
+DEFAULT CHARSET=utf8
+COLLATE=utf8_general_ci;
