@@ -10,7 +10,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <h2>Crud Samrt NX</h2>
+            <h2>Crud Smart NX</h2>
         </div>
         </br>
         <div class="row">
